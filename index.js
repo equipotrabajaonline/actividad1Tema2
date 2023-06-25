@@ -5,3 +5,6 @@ class a{
     foo;
     bar;
 }
+class C{
+    bar;
+}
