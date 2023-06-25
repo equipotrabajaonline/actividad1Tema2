@@ -5,3 +5,7 @@ class a{
     foo;
     bar;
 }
+
+class b{
+    foo;
+}
