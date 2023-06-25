@@ -6,6 +6,7 @@ class a{
     bar;
 }
 
-class b{
-    foo;
+
+class C{
+    bar;
 }
